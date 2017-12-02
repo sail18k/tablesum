@@ -2,7 +2,7 @@
 
 #A plugin can save your time from coding multiple lines in jquery.
 
-How to use it:
+#How to use it:
 
 1. Put the latest version of jQuery library and jQuery sumTable.js script at the bottom of the webpage.
 
